@@ -1,0 +1,17 @@
+Test Function: 
+- Addition function
+- Subtraction function
+- Multiplication function
+- Div function
+- Mod function
+Test method:
+- Add two regular numbers
+- Add two negative numbers
+- Subtract two regular numbers
+- Subtract two negative numbers
+- Multiply two regular numbers
+- Multiply two negative numbers
+- Divide two regular numbers
+- Divide two negative numbers
+- Divide two zeros
+- Enter text in the calculation
